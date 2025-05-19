@@ -1,0 +1,2 @@
+# SGPT
+ShortyGPT
